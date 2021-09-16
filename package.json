@@ -1,0 +1,23 @@
+{
+  "name": "ns-api-client-mdfe",
+  "version": "1.0.0",
+  "description": "\"Biblioteca para comunicação com a API de MDFe da NS Tecnologia\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konflanzzz/mdfe-node-js.git"
+  },
+  "author": "Fernando Konflanz @ NS Tecnologia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konflanzzz/mdfe-node-js/issues"
+  },
+  "homepage": "https://github.com/konflanzzz/mdfe-node-js#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "crypto": "^1.0.1"
+  }
+}
